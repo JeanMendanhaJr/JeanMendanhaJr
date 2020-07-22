@@ -12,7 +12,7 @@
 ## 🤟🏽 Who and I?
 My name is Jean, a boy in love with technology and in constant learning. Junior JavaScript developer and evolving in NodeJS and ReactNative.
 
-## 🎓 University graduate.
+## 🎓 University Graduate.
 Academic in systems analysis and development, concluded in December 2020 by Faculdade Estácio.
 
 ## 🌐 Networks.

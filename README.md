@@ -1,16 +1,32 @@
-### Hi there 👋
+<h1 align="center">
+    Jean Carlos Mendanha Jr
+</h1>
 
-<!--
-**JeanMendanhaJr/JeanMendanhaJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="#-who-and-i">Who and I?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-university-graduate">University Graduate</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-networks">Networks</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license">License</a>
+</p>
 
-Here are some ideas to get you started:
+## 🤟🏽 Who and I?
+My name is Jean, a boy in love with technology and in constant learning. Junior JavaScript developer and evolving in NodeJS and ReactNative.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 University graduate.
+Academic in systems analysis and development, concluded in December 2020 by Faculdade Estácio.
+
+## 🌐 Networks.
+- [Instagram](https://instagram.com/jeanmendanha) 
+- [Twitter](https://twitter.com/mendanha_jean)
+- [LinkedIn](https://www.linkedin.com/in/jeancarlosmendanha/)
+- [GitHub](https://github.com/JeanMendanhaJr/)
+
+## 📃 License
+
+This project is under the MIT license. See the [LICENSE](LICENSE.md) for details.
+
+---
+
+Made with ♥ by JeanMendanhaJr :wave: [Get in touch!](https://www.linkedin.com/in/JeanCarlosMendanha/)
+
+

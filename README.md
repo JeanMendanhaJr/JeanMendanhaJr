@@ -8,6 +8,9 @@
   <a href="#-license">License</a>
 </p>
 
+## :star: Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanMendanhaJr&layout=compact&theme=react)
+
 ## 🤟🏽 Who and I?
 My name is Jean, a boy in love with technology and in constant learning. Junior JavaScript developer and evolving in NodeJS and ReactNative.
 
